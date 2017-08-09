@@ -1,0 +1,5 @@
+{
+	"require":{
+		"RyFTester/tester_demo": "dev-master"
+	}
+}
